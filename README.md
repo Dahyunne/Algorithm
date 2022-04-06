@@ -1,6 +1,6 @@
 # Algorithm
 
-Programmers:
+Programmers:\
   로또: https://programmers.co.kr/learn/courses/30/lessons/77484
   신규아이디: https://programmers.co.kr/learn/courses/30/lessons/72410
   숫자문자열과 영단어: https://programmers.co.kr/learn/courses/30/lessons/81301
