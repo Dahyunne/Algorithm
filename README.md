@@ -11,3 +11,7 @@
 >K번째 수: https://programmers.co.kr/learn/courses/30/lessons/42748   
 >두개 뽑아서 더하기: https://programmers.co.kr/learn/courses/30/lessons/68644   
 >나머지가 1이 되는 수 찾기: https://programmers.co.kr/learn/courses/30/lessons/87389   
+>직사각형 별찍기: https://programmers.co.kr/learn/courses/30/lessons/12969   
+>핸드폰 번호 가리기: https://programmers.co.kr/learn/courses/30/lessons/12948   
+>같은 숫자는 싫어: https://programmers.co.kr/learn/courses/30/lessons/12906   
+>실패율: https://programmers.co.kr/learn/courses/30/lessons/42889
