@@ -16,4 +16,8 @@
 >같은 숫자는 싫어: https://programmers.co.kr/learn/courses/30/lessons/12906   
 >실패율: https://programmers.co.kr/learn/courses/30/lessons/42889   
 >2016: https://programmers.co.kr/learn/courses/30/lessons/12901#   
->부족한 금액 계산하기: https://programmers.co.kr/learn/courses/30/lessons/82612
+>부족한 금액 계산하기: https://programmers.co.kr/learn/courses/30/lessons/82612   
+>서울에서 김서방 찾기: https://programmers.co.kr/learn/courses/30/lessons/12919   
+>나누어 떨어지는 숫자 배열: https://programmers.co.kr/learn/courses/30/lessons/12910   
+>평균 구하기: https://programmers.co.kr/learn/courses/30/lessons/12944   
+>하샤드 수: https://programmers.co.kr/learn/courses/30/lessons/12947#
