@@ -14,4 +14,6 @@
 >직사각형 별찍기: https://programmers.co.kr/learn/courses/30/lessons/12969   
 >핸드폰 번호 가리기: https://programmers.co.kr/learn/courses/30/lessons/12948   
 >같은 숫자는 싫어: https://programmers.co.kr/learn/courses/30/lessons/12906   
->실패율: https://programmers.co.kr/learn/courses/30/lessons/42889
+>실패율: https://programmers.co.kr/learn/courses/30/lessons/42889   
+>2016: https://programmers.co.kr/learn/courses/30/lessons/12901#   
+>부족한 금액 계산하기: https://programmers.co.kr/learn/courses/30/lessons/82612
