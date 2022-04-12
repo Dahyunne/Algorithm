@@ -20,4 +20,8 @@
 >서울에서 김서방 찾기: https://programmers.co.kr/learn/courses/30/lessons/12919   
 >나누어 떨어지는 숫자 배열: https://programmers.co.kr/learn/courses/30/lessons/12910   
 >평균 구하기: https://programmers.co.kr/learn/courses/30/lessons/12944   
->하샤드 수: https://programmers.co.kr/learn/courses/30/lessons/12947#
+>하샤드 수: https://programmers.co.kr/learn/courses/30/lessons/12947#   
+>예산: https://programmers.co.kr/learn/courses/30/lessons/12982
+>모의고사: https://programmers.co.kr/learn/courses/30/lessons/42840   
+>완주하지 못한 선수: https://programmers.co.kr/learn/courses/30/lessons/42576   
+>짝수와 홀수: https://programmers.co.kr/learn/courses/30/lessons/12937   
