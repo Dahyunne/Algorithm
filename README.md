@@ -29,3 +29,9 @@
 |[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|
 |[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|
 |[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|
+|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|
+|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|
+|[정수 내림차순으로 배열하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|
+|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|
+|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|
+|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
