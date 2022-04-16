@@ -24,4 +24,5 @@
 |[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|
 |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|해시|
-|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937  )|
+|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|
+|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|
