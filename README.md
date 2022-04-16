@@ -26,3 +26,6 @@
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|해시|
 |[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|
 |[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|
+|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|
+|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|
+|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|
