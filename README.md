@@ -1,4 +1,4 @@
-## Programmers Level 1   
+## Programmers Level 1!   
 |이름|종류|
 |:---|:---:|
 |[로또](https://programmers.co.kr/learn/courses/30/lessons/77484)|
